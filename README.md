@@ -3,6 +3,8 @@
 This repository contains selected LeetCode solutions, organized by difficulty and topic.  
 Cleaned, reusable solutions are in `solutions/`.
 
+Mostly doing questions in order of easiest -> hardest in the neetcode 150
+
 ## Structure
 - `solutions/{easy,medium,hard}/{topic}/` — polished solutions for review
 - `notes/` — short writeups: patterns, tips, cheat-sheets
